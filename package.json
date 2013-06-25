@@ -8,19 +8,11 @@
     "type": "git",
     "url": "https://github.com/kandelakig/node-apns-test.git"
   },
-  "keywords": [
-    "apple",
-    "push",
-    "push notifications",
-    "iOS",
-    "apns",
-    "notifications"
-  ],
+  "bin": {
+    "lmd-apns-test": "run.js"
+  },
   "dependencies": {
     "q": "0.9.x"
-  },
-  "engines": {
-    "node": ">= 0.6.6"
   },
   "license": "MIT"
 }

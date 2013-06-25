@@ -1,1 +1,3 @@
-console.log('Hello')
+#!/usr/bin/env node
+
+require('./index').test();
