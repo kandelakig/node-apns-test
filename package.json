@@ -1,0 +1,26 @@
+{
+  "name": "node-apns-test",
+  "description": "An interface to the Apple Push Notification service for Node.js",
+  "version": "0.0.1",
+  "author": "Giorgi Kandelaki <kandelakig@gmail.com>",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kandelakig/node-apns-test.git"
+  },
+  "keywords": [
+    "apple",
+    "push",
+    "push notifications",
+    "iOS",
+    "apns",
+    "notifications"
+  ],
+  "dependencies": {
+    "q": "0.9.x"
+  },
+  "engines": {
+    "node": ">= 0.6.6"
+  },
+  "license": "MIT"
+}
